@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 ## 🚨 Threat Hunting and Security Operations
-
+- **[Threat-Hunting](https://github.com/Amiri8/Tthreat-hunting-scenario-tor)**
 
 
 <hr/>
