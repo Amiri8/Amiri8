@@ -7,11 +7,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/Amiri8/Vulnerability-Management-Program)**
 
+---
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat-Hunting-Project-Using-Sentinel](https://github.com/Amiri8/Tthreat-hunting-scenario-tor)**
 
+---
 
+**NIST 800-61 Incident Response**
+- **[Incident Response Simulation](https://github.com/Amiri8/Randsomeware/tree/main)**
 <hr/>
 
 ## 🤳 Connect With Me
