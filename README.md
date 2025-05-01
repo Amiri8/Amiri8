@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ---
 
-**NIST 800-61 Incident Response**
+**NIST 800-61 Incident Response Project**
 - **[Incident Response Simulation](https://github.com/Amiri8/Randsomeware/tree/main)**
 <hr/>
 
