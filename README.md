@@ -29,7 +29,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 ## Defender Atomic Lab
-- **[Defender Atomic Lab](https://github.com/Amiri8/Amiri8/edit/main/README.md)**
+- **[Defender Atomic Lab](https://github.com/Amiri8/Microsoft-Defender-for-Endpoint-Attomic-Red-Team-)**
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
